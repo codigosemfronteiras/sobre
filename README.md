@@ -22,6 +22,7 @@ Nossa base é fundada no respeito mútuo e colaboração. Falta de respeito e pr
 - [Há algum certificado de participação?](#há-algum-certificado-de-participação)
 - [Ao final da mentoria, como sigo com meus aprendizados?](#ao-final-da-mentoria-como-sigo-com-meus-aprendizados)
 - [Quem está por trás da CsF?](#quem-está-por-trás-da-csf)
+
 ## Qual o escopo?
 A ideia da mentoria e abrir espaço para pessoas que hoje tenham pouco ou nenhum espaço na sociedade, com foco no desenvolvimento de software.
 Futuramente poderemos expandir um pouco o escopo, quem sabe!
