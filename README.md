@@ -16,7 +16,7 @@ Nossa base é fundada no respeito mútuo e colaboração. Falta de respeito e pr
 - [Por que 8 pessoas?](#por-que-8-pessoas)
 - [Quais os requisitos?](#quais-os-requisitos)
 - [O que irei aprender?](#o-que-irei-aprender)
-- [Qual o custo](#qual-o-custo)
+- [Qual o custo?](#qual-o-custo)
 - [Há algum material de referência?](#há-algum-material-de-referência)
 - [Há garantias de conseguir um trabalho?](#há-garantias-de-conseguir-um-trabalho)
 - [Há algum certificado de participação?](#há-algum-certificado-de-participação)
