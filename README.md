@@ -2,7 +2,7 @@
 
 A CsF é uma organização sem fins lucrativos que visa _exclusivamente_ pessoas negras e/ou LGBTQIA+ a dar os primeiros passos no desenvolvimento de software e quem sabe conseguir um trabalho em uma empresa honesta e inclusiva.
 
-Nascemos da seguinte indagação: "Se há tantas vagas, em que as empresas postam a todo momento, por que é que não são preenchidas?"
+Nascemos da seguinte indagação: "Se tem tanta vaga que as empresas postam toda hora, por que não são preenchidas?"
 
 Nossa base é fundada no respeito mútuo e colaboração. Falta de respeito e preconceito não serão tolerados.
 
@@ -24,54 +24,52 @@ Nossa base é fundada no respeito mútuo e colaboração. Falta de respeito e pr
 - [Quem está por trás da CsF?](#quem-está-por-trás-da-csf)
 
 ## Qual o escopo?
-A ideia da mentoria e abrir espaço para pessoas que hoje tenham pouco ou nenhum espaço na sociedade, com foco no desenvolvimento de software.
-Futuramente poderemos expandir um pouco o escopo, quem sabe!
+A ideia é abrir espaço para pessoas que hoje tenham pouco ou nenhum espaço na sociedade, com foco no desenvolvimento de software.
+Futuramente poderemos expandir um pouco o escopo, quem sabe?
 
-A mentoria é composta por um bate-papo inicial e posteriormente o desenvolvimento de pequenas ideias e pequenos programas de computador.
+Começamos com um bate-papo e posteriormente exploramos e escrevemos juntos programas de computador para entender a base de como as coisas funcionam.
 
 Como o foco é para pessoas iniciantes, não nos preocuparemos com a linguagem escolhida ou sequer o framework. Isso poderá mudar conforme
 o conhecimento e disponibilidade dos nossos mentores.
 
 ## Qual o tempo de duração?
-A mentoria dura 4 sábados, das 9 às 12h . Serão 12h no total e esperamos passar algumas ideias e pequenos projetos, além de quebrar o gelo.
-Idealmente, as pessoas poderão seguir criando durante a semana e trazer novidades aos sábados.
+A mentoria dura 4 sábados, das 9 às 12h . Serão 12h no total e esperamos passar algumas ideias e pequenos projetos, mas a parte principal é quebrar o gelo.
+Durante a semana as pessoas poderão seguir criando e trazer dúvidas, perguntas e novidades aos sábados.
 
-A cada 1h da mentoria, faremos uma passa de 10min para que cada um relaxe, tome a água e volte energizado!
+A cada 1h da mentoria, faremos uma pausa de 10min para que cada um relaxe, tome a água e volte energizado!
 
 ## Tentei abrir o formulário mas estava encerrado!
 Pode acontecer! Como temos recursos e tempo limitados, precisamos fazer isso. Fique ligado no LinkedIn e no nosso Twitter, pois é onde
 postaremos novas datas das futuras mentorias.
 
-## Por que 8 pessoas?
+## Por que 4 pessoas?
 Esta é uma quantidade de pessoas que consideramos ótima para um encontro virtual e que nos permite dar atenção e dedicação.
 
 ## Quais os requisitos?
-Você precisará de um computador com acesso à Internet. Usaremos wecam e microfone para troca de ideias. A webcam embora facilite, é opcional. Se você se sentir
-confortável, basta ligá-la.
+Você precisará de um computador com acesso à Internet. Usaremos webcam e microfone para a troca de ideias.
+A webcam embora facilite, é opcional, ligue somente se você se sentir confortável.
 
 ## O que irei aprender?
-Inicialmente vamos bater um papo e nos conhecer. Depois seguiremos com os primeiros passos na exploração de projetos de código, como se integram
-com as regras de negócio, além de entender como pessoas colaboram dentro de um time.
+[Este documento possui a visão geral do que temos planejado.](./conteudo.md).
 
 ## Qual o custo?
 Não há custos para participar. Nosso programa de mentoria é 100% gratuito.
 
 ## Há algum material de referência?
-Estamos pensando em utilizar livros da Casa do Código, pois fazem um ótimo trabalho, 100% em português.
+Vamos usar como referência os livros da Casa do Código, pois fazem um ótimo trabalho, 100% em português.
 
 ## Há garantias de conseguir um trabalho?
-Infelizmente não. Como seremos um grupo, a ideia é que possamos unir forças a fim de compartilhar conhecimento e oportunidades.
+Infelizmente não. A ideia é que possamos unir forças a fim de compartilhar conhecimento e oportunidades.
 Aproveite nossos canais para troca de ideias e também para pegar dicas com pessoas mais experientes.
 
 ## Há algum certificado de participação?
-Gostaríamos de fazer algo nesse modelo, mas ainda não ofereceremos nenhum tipo de certificado.
+Ainda não ofereceremos nenhum tipo de certificado.
 
 ## Ao final da mentoria, como sigo com meus aprendizados?
-Utilizaremos um espaço de trabalho no Slack para a troca de ideias e compartilhamento de conhecimento, para que você possa dar continuidade
-ao que tem aprendido.
+Para os detalhes sobre os nossos canais de comunicação, [veja este documento](./canais_de_comunicação.md).
 
 ## Quem está por trás da CsF?
-Não há nenhuma empresa por trás disso. Esta ideia nasceu da indignação do idealizador [Gus Freitas](https://github.com/axcdnt) ao ver que
-há pouco ou nenhum espaço para _pessoas diferentes_. Vendo que era impossível criar políticas públicas, decidiu sair do limbo e criar algo, sem esperar
-por ambições maiores que muitas vezes não saem do papel.
+Esta iniciativa é construída por pessoas e não por empresas.
+Esta ideia nasceu da indignação do idealizador [Gus Freitas](https://github.com/axcdnt) ao ver que há pouco ou nenhum espaço para _pessoas diferentes_.
+Vendo que era impossível criar políticas públicas, decidiu sair do limbo e criar algo, sem esperar por ambições maiores que muitas vezes não saem do papel.
 
