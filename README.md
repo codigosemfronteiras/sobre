@@ -66,7 +66,7 @@ Aproveite nossos canais para troca de ideias e também para pegar dicas com pess
 Ainda não ofereceremos nenhum tipo de certificado.
 
 ## Ao final da mentoria, como sigo com meus aprendizados?
-**TODO**: Colocar um link para a página de canais de comunicação
+Para os detalhes sobre os nossos canais de comunicação, [veja este documento](./canais_de_comunicação.md).
 
 ## Quem está por trás da CsF?
 Esta iniciativa é construída por pessoas e não por empresas.
