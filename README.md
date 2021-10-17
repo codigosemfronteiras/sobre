@@ -50,7 +50,7 @@ Você precisará de um computador com acesso à Internet. Usaremos webcam e micr
 A webcam embora facilite, é opcional, ligue somente se você se sentir confortável.
 
 ## O que irei aprender?
-**TODO**: Colocar link para a página de conteúdo e planejamento
+[Este documento possui a visão geral do que temos planejado.](./conteudo.md).
 
 ## Qual o custo?
 Não há custos para participar. Nosso programa de mentoria é 100% gratuito.
