@@ -13,7 +13,7 @@ Nossa base é fundada no respeito mútuo e colaboração. Falta de respeito e pr
 - [Qual o escopo?](#qual-o-escopo)
 - [Qual o tempo de duração?](#qual-o-tempo-de-duração)
 - [Tentei abrir o formulário mas estava encerrado!](#tentei-abrir-o-formulário-mas-estava-encerrado)
-- [Por que 8 pessoas?](#por-que-8-pessoas)
+- [Por que 4 pessoas?](#por-que-4-pessoas)
 - [Quais os requisitos?](#quais-os-requisitos)
 - [O que irei aprender?](#o-que-irei-aprender)
 - [Qual o custo?](#qual-o-custo)
